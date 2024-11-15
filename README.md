@@ -19,3 +19,7 @@ I decided to build a curated list on this topic. Feel free to contribute!
 [Interpreting and Steering Features in Images](https://www.lesswrong.com/posts/Quqekpvx8BGMMcaem/interpreting-and-steering-features-in-images)
 
 [Envisioning the next generation of AI-enhanced user experiences](https://uxdesign.cc/envisioning-the-next-generation-of-ai-enhanced-user-experiences-4fff46af7e6e)
+
+[Tools for Thought](https://maggieappleton.com/tools-for-thought)
+
+[How Might We Learn?](https://andymatuschak.org/hmwl/)
